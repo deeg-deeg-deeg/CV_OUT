@@ -7,7 +7,7 @@ I have developed a DIY device that can be connected to a NORNS via USB and send 
 It is necessary for the communication with the mcp4022 DAC chip. You can download it from here: http://www.alhin.de/arduino. But I included a copy in this git, since the website seems not online anymore.
 
 
-Unfortunately I became very ill and connot continue this project. So everything here is as it is. I hope it is usefuö for some people.
+Unfortunately I became very ill and connot continue this project. So everything here is as it is. I hope it is useful for some people.
 
 Cheers!
 
